@@ -1,0 +1,6 @@
+{
+  "name": "Archivision 3D - AI Architecture & Blueprint Studio",
+  "description": "Interactive architectural design platform with custom setbacks, procedural 3D model generation, daylight simulation, floor-by-floor view, and Bill of Quantities (BOQ).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
